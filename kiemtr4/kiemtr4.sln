@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiemtr4", "kiemtr4.csproj", "{CD46F777-910E-45E1-89B6-B0ADB3D65791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD46F777-910E-45E1-89B6-B0ADB3D65791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD46F777-910E-45E1-89B6-B0ADB3D65791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD46F777-910E-45E1-89B6-B0ADB3D65791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD46F777-910E-45E1-89B6-B0ADB3D65791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FAFAD8-87C9-4F18-84CD-C09ECFE8EA9F}
+	EndGlobalSection
+EndGlobal
