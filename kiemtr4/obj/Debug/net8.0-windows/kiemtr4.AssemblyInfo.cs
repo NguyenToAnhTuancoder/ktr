@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kiemtr4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6cc2fad280d19f843f9f362f0a1f5515de237c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("kiemtr4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kiemtr4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
